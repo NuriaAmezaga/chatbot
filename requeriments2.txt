@@ -1,0 +1,6 @@
+langchain_huggingface 
+langchain.vectorstores 
+langchain_core.prompts 
+langchain.memory
+langchain.chains
+streamlit
